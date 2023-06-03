@@ -1,0 +1,7 @@
+{
+  "alertText": "You clicked a button",
+  "alertPromptText": "Please enter your name",
+  "alertConfirmText": "Do you confirm action?",
+  "childFrameText": "Child Iframe",
+  "parentFrameText": "Parent frame"
+}

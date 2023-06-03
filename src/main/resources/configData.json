@@ -1,0 +1,6 @@
+{
+  "browser": "Chrome",
+  "url": "https://demoqa.com/",
+  "timeOfWait": 10,
+  "lenRandomText": 10
+}
